@@ -1,6 +1,6 @@
 //
 //  LSCustomDescView.m
-//  LiveShow
+//  yfq
 //
 //  Created by admin on 16/12/22.
 //  Copyright © 2016年 admin. All rights reserved.
